@@ -1,0 +1,20 @@
+﻿  DIG DUG juego.cpp
+D:\ejercicios de C++\progra 2\DIG DUG juego\DIG DUG juego\Entidad.h(34,30): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\ejercicios de C++\progra 2\DIG DUG juego\DIG DUG juego\Entidad.h(35,30): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\ejercicios de C++\progra 2\DIG DUG juego\DIG DUG juego\Entidad.h(36,30): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\ejercicios de C++\progra 2\DIG DUG juego\DIG DUG juego\Entidad.h(37,30): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\ejercicios de C++\progra 2\DIG DUG juego\DIG DUG juego\Entidad.h(46,31): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\ejercicios de C++\progra 2\DIG DUG juego\DIG DUG juego\Entidad.h(47,31): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\ejercicios de C++\progra 2\DIG DUG juego\DIG DUG juego\Entidad.h(48,31): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\ejercicios de C++\progra 2\DIG DUG juego\DIG DUG juego\Entidad.h(49,31): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\ejercicios de C++\progra 2\DIG DUG juego\DIG DUG juego\Excavador.h(7,52): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\ejercicios de C++\progra 2\DIG DUG juego\DIG DUG juego\Juego.h(31,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\ejercicios de C++\progra 2\DIG DUG juego\DIG DUG juego\Juego.h(32,13): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+D:\ejercicios de C++\progra 2\DIG DUG juego\DIG DUG juego\Juego.h(68,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+D:\ejercicios de C++\progra 2\DIG DUG juego\DIG DUG juego\Juego.h(76,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+D:\ejercicios de C++\progra 2\DIG DUG juego\DIG DUG juego\Juego.h(85,8): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+D:\ejercicios de C++\progra 2\DIG DUG juego\DIG DUG juego\Juego.h(87,18): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\ejercicios de C++\progra 2\DIG DUG juego\DIG DUG juego\Juego.h(109,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+D:\ejercicios de C++\progra 2\DIG DUG juego\DIG DUG juego\DIG DUG juego.cpp(38,9): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  DIG DUG juego.vcxproj -> D:\ejercicios de C++\progra 2\DIG DUG juego\x64\Debug\DIG DUG juego.exe

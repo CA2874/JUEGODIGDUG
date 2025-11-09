@@ -1,0 +1,2 @@
+D:\ejercicios de C++\progra 2\DIG DUG juego\DIG DUG juego\x64\Debug\DIG DUG juego.vcxproj.AssemblyReference.cache
+D:\ejercicios de C++\progra 2\DIG DUG juego\DIG DUG juego\x64\Debug\DIG DUG juego.vcxproj.SuggestedBindingRedirects.cache
